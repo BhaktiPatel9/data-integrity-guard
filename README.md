@@ -1,4 +1,5 @@
-# Data Integrity Guard: Automated Quality Framework 🕵️‍♀️
+
+![Integrity Pipeline](integrity_pipeline.png)
 
 ### Overview
 In high-scale AI environments, the cost of "noisy" data isn't just a broken dashboard—it's a compromised model. This project is a Python-based validation framework designed to catch reporting anomalies before they reach canonical datasets.
